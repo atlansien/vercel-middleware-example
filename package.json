@@ -13,6 +13,7 @@
     "@redocly/cli": "^1.34.3"
   },
   "dependencies": {
+    "@vercel/edge": "^1.2.1",
     "basic-auth": "^2.0.1",
     "static-auth": "^2.1.2"
   }
